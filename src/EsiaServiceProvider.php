@@ -1,8 +1,8 @@
 <?php
 
-namespace hapxu3\Esia;
+namespace VVB\Esia;
 
-use Hapxu3\Esia\Socialite\EsiaSocialiteProvider;
+use VVB\Esia\Socialite\EsiaSocialiteProvider;
 use Illuminate\Contracts\Container\Container;
 use Illuminate\Support\ServiceProvider;
 use Laravel\Socialite\Facades\Socialite;

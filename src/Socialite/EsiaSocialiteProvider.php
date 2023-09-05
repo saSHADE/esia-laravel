@@ -1,6 +1,6 @@
 <?php
 
-namespace Hapxu3\Esia\Socialite;
+namespace VVB\Esia\Socialite;
 
 use Esia\Config;
 use Esia\Exceptions\AbstractEsiaException;
