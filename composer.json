@@ -18,8 +18,8 @@
     "require": {
         "php": "^8.0",
         "fr05t1k/esia": "^2.0",
-        "laravel/socialite": "^5.0",
-        "guzzlehttp/guzzle": "^6.0",
+        "laravel/socialite": "^v5.6.3",
+        "guzzlehttp/guzzle": "^7.8.0",
         "illuminate/support": "^6.0 || ^7.0 || ^8.0",
         "ext-json": "*"
     },
